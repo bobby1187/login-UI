@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url("../Img/stars-bg.jpg");
+    background-image: url("././Img/stars-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -22,7 +22,7 @@ body {
 
 
 .card {
-    background-image: url("../Img/rave-bg.jpg");
+    background-image: url("././Img/rave-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center; 
